@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Mar 08 08:46:30 COT 2018
+stories.RetoVisitenos.menu/visitenos_address_search.story=35000
+threads=1
+total=35000
+threadAverage=35000
